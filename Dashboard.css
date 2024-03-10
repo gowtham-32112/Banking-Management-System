@@ -1,0 +1,33 @@
+.dashboard-bg {
+  background-image: url('https://png.pngtree.com/png-vector/20201225/ourlarge/pngtree-financial-management-mobile-banking-revenue-png-image_2621419.jpg');
+  background-size: 1550px 700px; /* Set the width and height of the image */
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 700px; /* Set the height of the container */
+  width: 1550px; /* Set the width of the container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.deposit-button-container {
+  position: absolute;
+  top: 40%;
+  right: 1300px; /* Adjust the right distance as needed */
+  transform: translateY(-50%);
+}
+
+.Profile{
+  position: absolute;
+  top: 190%;
+  right: 0px; /* Adjust the right distance as needed */
+  transform: translateY(-50%);
+}
+
+.Dashboardreal{
+  position: absolute;
+  top: 190%;
+  right: 0px; /* Adjust the right distance as needed */
+  transform: translateY(-50%);
+}

@@ -1,0 +1,57 @@
+.Profile-bg {
+    background-image: url('https://brandcurb.com/assets/web-design-development.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    height: 70vh; /* Set the height of the container */
+    display: flow-root;
+    justify-content: flex-start;
+    align-items: normal;
+    text-align: center;
+  }
+  
+  .profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .profile-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 400px;
+  }
+  
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-details {
+    font-size: 16px;
+  }
+  
+  .detail {
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .value {
+    margin-left: 10px;
+  }
+  
+  .interests-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .interests-list li {
+    margin-bottom: 5px;
+  }
+  
